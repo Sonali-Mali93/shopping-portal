@@ -1,0 +1,17 @@
+{
+  "name": "shopping-portal",
+  "version": "1.0.0",
+  "description": "This is shopping portal project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sonali Mali",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "nodemon": "^3.1.0"
+  }
+}
